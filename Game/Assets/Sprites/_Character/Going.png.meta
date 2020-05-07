@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: b25a98c0b7df86f478fd8cc9346b33be
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Going_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 14
+        width: 103
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Going_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 13
+        width: 104
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Going_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 12
+        width: 98
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Going_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 9
+        width: 94
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Going_4
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 10
+        width: 99
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Going_5
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 11
+        width: 104
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Going_6
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 11
+        width: 106
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Going_7
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 11
+        width: 110
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Going_8
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 13
+        width: 112
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
